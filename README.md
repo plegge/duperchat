@@ -42,7 +42,11 @@ withdrawBalance()
 
 - [ ] Create a contract that creates Donate contracts and uses aliases to find them
 - [ ] Increase security or remove in `Donate.setOwner`
+- [ ] Contract pause
+- [ ] On withdraw, send a percentual to the main contract
 - [ ] Create a Proxy Contract
+- [ ] Cleanup frontend POC
+- [ ] Actions for build and deploy frontend
 
 ## Development
 
