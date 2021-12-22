@@ -40,9 +40,9 @@ withdrawBalance()
 
 ## Next Steps:
 
-- [] Create a contract that creates Donate contracts and uses aliases to find them
-- [] Increase security or remove in `Donate.setOwner`
-- [] Create a Proxy Contract
+- [ ] Create a contract that creates Donate contracts and uses aliases to find them
+- [ ] Increase security or remove in `Donate.setOwner`
+- [ ] Create a Proxy Contract
 
 ## Development
 
