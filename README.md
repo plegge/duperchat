@@ -1,6 +1,6 @@
 # Duperchat
 
-A decentralised tool for donations with messages written as a Smart Contract for Ethereum Virtual Machine.
+A Smart Contract on Ethereum for donations where the donators can also leave a message to the receivers. Messages are stored in IPFS.
 
 ## Donate Contract
 
